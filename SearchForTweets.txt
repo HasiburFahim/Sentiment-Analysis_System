@@ -1,0 +1,9 @@
+tweets,value
+This is a Random tweet about a negative incident that happened today,-0.4
+the old iphone has the best bezel in the series,0.55
+I still think the previous iphone was the great,0.3166666666666667
+My overall impression on iphone x is not very good,-0.13461538461538458
+The glass design in the back of iphone x is elegant,0.25
+Apple provide us with a slow Charger in iphone x,-0.30000000000000004
+I hate the Notch in iphone x,-0.8
+Apple is a very profitable company,0.2

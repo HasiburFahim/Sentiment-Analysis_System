@@ -1,0 +1,6 @@
+textblob
+tweepy
+webbrowser
+pyaudio
+speechRecognition
+pynput
